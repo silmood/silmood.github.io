@@ -1,23 +1,20 @@
-# Site settings
-
-title: Silmood's room # Title of your site
-email: silmood@protonmail.com # Your contant email
-
-description: > # this means to ignore newlines until "baseurl:"
-    Welcome to the first android spanish podcast home
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://silmood.github.io" # the base hostname & protocol for your site
+title: Silmood's room 
+description: >
+  Welcome to the first android spanish podcast home.
+copyright: Untitled
+sass:
+  sass_dir: assets/sass
+url: http://silmood.github.io/
 disqus_shortname: silmood
-# Social links.
-# Replace the word 'example' with your username if you want to include the icon in the left sidebar
-# Delete the word 'example' if you don't want to include the icon in the left sidebar
-
-twitter_username:     silmood  # Replace this with your Twitter username
-github_username:      silmood  # Replace this with your GitHub username
-linkedin_username:    pedro-antonio-hernández-a047759b # Replace this with your LinkedIn username
-google_plus_username:   # Replace this with your Google+ username
-facebook_username:      # Replace this with your Facebook username
-dribbble_username:      # Replace this with your Dribbble username
-
-# Build settings
-markdown: kramdown
+facebook_username:
+twitter_username: silmood
+linkedin_username: pedro-antonio-hernández-a047759b
+instagram_username:
+pinterest_username:
+flickr_username:
+github_username: silmood
+feed_icon: rss
+email: silmood@protonmail.com
+gems: [jekyll-paginate]
+paginate_path: "/page/:num/"
+paginate: 5

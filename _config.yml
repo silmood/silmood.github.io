@@ -1,15 +1,13 @@
 # Site settings
 
 title: Silmood's room # Title of your site
-email: petterlx727@gmail.com # Your contant email
+email: silmood@protonmail.com # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    Welcome to the first android spanish podcast home
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-
+url: "http://silmood.github.io" # the base hostname & protocol for your site
+disqus_shortname: silmood
 # Social links.
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
 # Delete the word 'example' if you don't want to include the icon in the left sidebar

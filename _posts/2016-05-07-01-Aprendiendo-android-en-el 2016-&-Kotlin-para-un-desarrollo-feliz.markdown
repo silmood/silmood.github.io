@@ -8,7 +8,7 @@ categories: podcast android
 Estoy muy emocionado de presentarte este primer episodio del proyecto. Aunque por mucho, no es perfecto, todo debe iniciar con algo. Gracias por escuchar y espero tus comentarios, sugerencias de temas, feedback, burlas y lo que sea!
 <iframe src="https://archive.org/embed/SilmoodsAndroidDevPodcast2016070501083" width="100%" height="50" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <a class="button special fit" href="https://archive.org/download/SilmoodsAndroidDevPodcast2016070501083/Silmood's%20AndroidDev%20Podcast%2020160705%200108%203.mp3" target="_blank">Descargar</a>
-**Gracias** a [Fragmented Podcast](http://fragmentedpodcast.com/) , el primer podcast de android para desarrolladores que conocí, por inspirarme a compartir en este formato. y **Gracias** a [Gothwsi](https://twitter.com/gothwski) que me ayudo que el increible logo del proyecto.
+**Gracias** a [Fragmented Podcast](http://fragmentedpodcast.com/) , el primer podcast de android para desarrolladores que conocí, por inspirarme a compartir en este formato. Y **Gracias** a [Gothwsi](https://twitter.com/gothwski) que me ayudo que el increible logo del proyecto.
 
 ## Recursos - Aprendiendo Android en el 2016
 * [La historia de Android](https://www.android.com/intl/es-419_mx/history/)

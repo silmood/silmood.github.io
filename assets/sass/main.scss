@@ -459,7 +459,6 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.5;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -902,8 +901,8 @@
 		background-attachment:	scroll,								fixed;
 		background-image:		url('images/overlay.png'),			url('../../images/bg.jpg');
 		background-position:	top left,							top left;
-		background-repeat:		repeat,								no-repeat;
-		background-size:		auto,								auto 100%;
+		background-repeat:		repeat,								repeat;
+		background-size:		auto,								auto;
 		color: _palette(accent2, fg);
 		height: 100%;
 		left: 0;
@@ -1291,8 +1290,8 @@
 				background-color:		_palette(accent2, bg);
 				background-image:		url('images/overlay.png'),		url('../../images/bg.jpg');
 				background-position:	top left,						bottom center;
-				background-repeat:		repeat,							no-repeat;
-				background-size:		auto,							cover;
+				background-repeat:		repeat,							repeat;
+				background-size:		auto,							auto;
 				bottom: auto;
 				left: auto;
 				padding: $size-header-pad $size-header-pad ($size-header-pad * 1.5) $size-header-pad;

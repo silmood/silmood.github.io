@@ -1,10 +1,10 @@
 title: Silmood's room 
 description: >
-  Welcome to the first android spanish podcast home.
+    Hi! **I am Peter**, software developer, super-amateur music producer, GDG Androidtitlan member and **the voice behind PodcastCompat**
 copyright: Untitled
 sass:
   sass_dir: assets/sass
-url: http://silmood.github.io/
+url: http://silmood.github.io
 disqus_shortname: silmood
 facebook_username:
 twitter_username: silmood
